@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vsvydenko/Android/tmps/TestFrameworkChoosing/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/vsvydenko/Android/tmps/TestFrameworkChoosing/app/build/intermediates/pre-dexed/debug/classes-3cbdaf0b3022f1cdfb33ca5c75c0b907f7e86c2a.jar" />
+    </item>
+    <item
+        jar="/Users/vsvydenko/Android/tmps/TestFrameworkChoosing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/vsvydenko/Android/tmps/TestFrameworkChoosing/app/build/intermediates/pre-dexed/debug/classes-0e4b59c90fd35cae788e74b98ae8898fb165ea2c.jar" />
+    </item>
+    <item
+        jar="/Users/vsvydenko/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.2.1/56ab8d87d966a067ee3795ee137fbd51b6581ec9/robotium-solo-5.2.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="56ab8d87d966a067ee3795ee137fbd51b6581ec9">
+        <dex dex="/Users/vsvydenko/Android/tmps/TestFrameworkChoosing/app/build/intermediates/pre-dexed/debug/robotium-solo-5.2.1-c04d9bf796d55cf19910aa9370c68417fb81dc80.jar" />
+    </item>
+    <item
+        jar="/Users/vsvydenko/Android/tmps/TestFrameworkChoosing/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/vsvydenko/Android/tmps/TestFrameworkChoosing/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-9e3dde488617e2a539ee9b210581008fc4028e03.jar" />
+    </item>
+    <item
+        jar="/Users/vsvydenko/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/vsvydenko/Android/tmps/TestFrameworkChoosing/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-c0bfee7a1fad89bf4e1c3f4bd3033eba0612436a.jar" />
+    </item>
+
+</items>
