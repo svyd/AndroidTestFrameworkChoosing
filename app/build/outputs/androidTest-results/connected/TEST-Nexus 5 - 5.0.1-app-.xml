@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.blogspot.vsvydenko.testframeworkchoosing.ApplicationTest" tests="5" failures="1" errors="0" skipped="0" time="6.881" timestamp="2015-01-04T20:53:27" hostname="localhost">
+  <properties>
+    <property name="device" value="Nexus 5 - 5.0.1" />
+    <property name="flavor" value="" />
+    <property name="project" value="app" />
+  </properties>
+  <testcase name="testAndroidTestCaseSetupProperly" classname="com.blogspot.vsvydenko.testframeworkchoosing.ApplicationTest" time="0.0" />
+  <testcase name="testApplicationTestCaseSetUpProperly" classname="com.blogspot.vsvydenko.testframeworkchoosing.ApplicationTest" time="0.0" />
+  <testcase name="testTextItem" classname="com.blogspot.vsvydenko.testframeworkchoosing.MainActivityRobotiumTest" time="6.537" />
+  <testcase name="testWelcomeText" classname="com.blogspot.vsvydenko.testframeworkchoosing.MainActivityTest" time="0.174" />
+  <testcase name="testWelcomeText" classname="com.blogspot.vsvydenko.testframeworkchoosing.MainActivityWrongTest" time="0.195">
+    <failure>junit.framework.AssertionFailedError: Check intro text
+at com.blogspot.vsvydenko.testframeworkchoosing.MainActivityWrongTest.testWelcomeText(MainActivityWrongTest.java:34)
+at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)
+at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)
+at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)
+at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:555)
+at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1837)
+</failure>
+  </testcase>
+</testsuite>

@@ -1,1 +1,4 @@
-/build
+# /build
+/build/intermediates
+/build/generated
+build/outputs/apk
